@@ -1,7 +1,7 @@
 
 <h1 align="center">🚀 Python Projects Repository 🐍</h1>
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXk0Ym04dnZ3djRpY3RqcHZqejI3cm9pZ3RmcDl5dTBlOGtid29jcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="600" height="400">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXk0Ym04dnZ3djRpY3RqcHZqejI3cm9pZ3RmcDl5dTBlOGtid29jcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="400" height="300">
 </p>
 <p align="center">
     <b>Welcome to Python Projects! 🎯 A collection of Python scripts, AI models, automation tools, and more! 💡</b>
