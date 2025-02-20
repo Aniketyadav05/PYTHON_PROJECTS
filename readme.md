@@ -1,16 +1,4 @@
-Here’s a more **interactive and visually appealing** `README.md` using **HTML, CSS, and animations**. This will make your repository stand out! 🚀  
 
----
-
-## 📌 Steps:  
-1️⃣ **Copy & Paste** this code into your `README.md`  
-2️⃣ **Save & Preview** in GitHub  
-
----
-
-### 🚀 **Python Projects - Interactive README**  
-
-```html
 <h1 align="center">🚀 Python Projects Repository 🐍</h1>
 <p align="center">
     <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600">
@@ -109,9 +97,7 @@ This repository is **MIT Licensed**. See [LICENSE](LICENSE) for details.
 <p align="center">
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600">
 </p>
-```
 
----
 
 ## 🎨 **How This README Stands Out:**  
 ✅ **Interactive HTML** for better visuals.  
@@ -119,4 +105,3 @@ This repository is **MIT Licensed**. See [LICENSE](LICENSE) for details.
 ✅ **Project Previews** for better clarity.  
 ✅ **Easy to Read & Navigate** 🚀  
 
-Let me know if you want **further customizations!** 🎨🔥
