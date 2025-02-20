@@ -1,7 +1,7 @@
 
 <h1 align="center">🚀 Python Projects Repository 🐍</h1>
 <p align="center">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXk0Ym04dnZ3djRpY3RqcHZqejI3cm9pZ3RmcDl5dTBlOGtid29jcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="600" height="400">
 </p>
 <p align="center">
     <b>Welcome to Python Projects! 🎯 A collection of Python scripts, AI models, automation tools, and more! 💡</b>
@@ -29,7 +29,7 @@
 ✅ Uses **image processing** techniques.  
 ✅ Creates **transparent PNGs**.  
 
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG00dHR2c3Zwb3B4ODJuOTViMmtiY2QxcGgwdnV5Y2VqdDJ0NXM5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1csqDAudd6DKSZkiP1/giphy.gif" width="600">
 
 ---
 
@@ -48,16 +48,16 @@
 ✔ **Simple Python Games** 🎮  
 
 🎮 **Example:**  
-<img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" width="600">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUyYWo5MDRybzdwNzhqNWU0YzU4cmsxdGNqY2p2NW1uajdnMHRpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1KtYG8BndKBmWrM4/giphy.gif" width="600">
 
 ---
 
 <h3>🔍 Text Detection (OCR)</h3>
 ✔ Extract text from images **automatically**.  
-✔ Convert handwritten or printed text into **digital format**.  
+✔ Shows images related to that **text**.  
 
 📜 **Example in Action:**  
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="600">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3djc2g4NnVoZjR6eTlibTlmNDJpcXF5dHQzcXdzZ2llOXg5c2k1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnA79BSvNuY0eBi/giphy.gif" width="600">
 
 ---
 
